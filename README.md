@@ -11,6 +11,7 @@ Com duas abas do terminal abertas, umas delas você executa o Kafka com estes co
 \
 \
 **cd rails_consumer**
+\
 **bundle exec karafka server**
 \
 \
